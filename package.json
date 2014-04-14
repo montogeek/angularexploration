@@ -1,0 +1,15 @@
+{
+  "name": "todo-node",
+  "version": "0.0.0",
+  "description": "Todo app with Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MontoGeek",
+  "license": "ISC",
+  "dependencies": {
+    "express"    : "~3.4.4",
+    "mongoose"   : "~3.6.2"
+  }
+}
